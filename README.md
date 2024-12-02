@@ -69,6 +69,7 @@ is also a [Matrix room](https://matrix.to/#/#hm:rycee.net), which is bridged to
 the IRC channel.
 
 Installation
+## BY Mudassir Alam
 ------------
 
 Home Manager can be used in three primary ways:
